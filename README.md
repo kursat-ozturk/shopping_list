@@ -1,16 +1,21 @@
-# shopping_list
+# Grocery App
 
-A new Flutter project.
+## Handling User Input With Forms:
 
-## Getting Started
+- Building & Using Forms
+- Showing On-Screen Validation Errors
+- Form Submission & Resetting
 
-This project is a starting point for a Flutter application.
+## Connecting a Backend:
 
-A few resources to get you started if this is your first Flutter project:
+- Sending HTTP Requests From Flutter Apps To Backends
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Skills
+Flutter, Dart, Firebase, HTTP Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## App Video:
+
+https://github.com/kursat-ozturk/shopping_list/assets/69029656/b3a0690d-a0d7-404e-8084-c6c7bc51bde8
+
